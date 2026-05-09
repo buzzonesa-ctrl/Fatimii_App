@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">التقويم الفاطمي</string>
+    <string name="title_activity_main">التقويم الفاطمي</string>
+    <string name="package_name">com.fatimi.calendar</string>
+    <string name="custom_url_scheme">com.fatimi.calendar</string>
+</resources>

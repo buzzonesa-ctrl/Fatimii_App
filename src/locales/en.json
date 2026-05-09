@@ -1,0 +1,39 @@
+﻿{
+  "app": {
+    "title": "Fatimi Calendar",
+    "description": "Fatimi calendar according to Sulaymani Ismaili school"
+  },
+  "nav": {
+    "home": "Home",
+    "tasbih": "Tasbih",
+    "month": "Monthly",
+    "events": "Events",
+    "qibla": "Qibla",
+    "weather": "Weather",
+    "quran": "Quran",
+    "business": "Business",
+    "emergency": "Emergency",
+    "admin": "Admin",
+    "dashboard": "Dashboard",
+    "volunteer": "Volunteer",
+    "settings": "Settings"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "darkMode": "Dark Mode",
+    "notifications": "Notifications",
+    "fontSize": "Font Size",
+    "reset": "Reset"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Are you sure?",
+    "yes": "Yes",
+    "no": "No"
+  }
+}
